@@ -10,7 +10,7 @@
     "google-spreadsheet": "^3.0.9",
     "mobx": "^5.15.4",
     "mobx-react": "^6.1.8",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-facebook": "^8.1.4",
